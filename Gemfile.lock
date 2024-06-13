@@ -1,6 +1,6 @@
 GIT
-  remote: https://github.com/kivanio/brcobranca.git
-  revision: cd928e87554bcd9eceadea6cf5a9a777f756b1b8
+  remote: https://github.com/kmee/brcobranca.git
+  revision: b526a64e55c14591e59bf2282bf7fa0fce8693d8
   specs:
     brcobranca (11.0.0)
       activesupport (>= 5.2.6)
